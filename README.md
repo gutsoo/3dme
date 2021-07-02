@@ -1,8 +1,8 @@
 # 3dme for QB
 
-Chat messages that includes /me /do /ooc w/ player firstname &amp; surname
+Chat messages that includes /me /do /ooc w/ player firstname &amp; lastname
 
-Previvew - https://prnt.sc/181rjxp
+Preview - https://prnt.sc/181rjxp
 
 ### Support
 
